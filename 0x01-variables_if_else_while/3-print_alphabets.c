@@ -12,7 +12,7 @@ while (n <= 122)
 putchar(n);
 n++;
 }
-while (m <= 96)
+while (m <= 90)
 {
 putchar(m);
 m++;
