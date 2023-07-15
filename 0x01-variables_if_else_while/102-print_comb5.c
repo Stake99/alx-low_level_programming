@@ -6,7 +6,6 @@
 int main(void)
 {
 int i, j;
-int count = 0;
 for (i = 0; i <= 99; i++)
 {
 for (j = 0; j <= 99; j++)
