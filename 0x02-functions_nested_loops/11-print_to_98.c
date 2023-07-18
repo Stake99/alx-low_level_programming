@@ -23,7 +23,7 @@ void print_to_98(int n)
 			}
 		}
 	}
-	else if
+	else
 	{
 		for (j = n; j <= 98; j--)
 		{
