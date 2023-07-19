@@ -58,3 +58,9 @@ for (i = 0; i <= 10; i++)
 printf("%d x %d = %d\n", n, i, n * i);
 }
 }
+int main(void)
+{
+int n = 5;
+print_times_table(n);
+return 0;
+}
