@@ -1,1 +1,1 @@
-My first C exercice
+alx-low_level_programming
