@@ -1,5 +1,3 @@
-3-alloc_grid.c
-
 #include "main.h"
 #include <stdlib.h>
 /**
